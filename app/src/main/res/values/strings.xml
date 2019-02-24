@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OnBoardingApp</string>
+    <string name="eat_icon">eat_icon</string>
+    <string name="heading">HEADING</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor mauris sit amet dolor varius, in sodales urna porttitor.</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+</resources>
